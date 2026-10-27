@@ -1,35 +1,68 @@
-<h1 data-importer="text" align="left">Hi, I'm Adham Hussein 👋</h1>
+# Hi, I'm Adham Hussein 👋
 
-###
+### Junior DevOps Engineer | Cloud & Infrastructure ☁️
 
-<p data-importer="text" align="left">Junior DevOps Engineer | Cloud & Infrastructure<br>Computer Science graduate passionate about DevOps, cloud infrastructure, automation, and container orchestration. I enjoy building hands-on projects and applying what I learn to real-world scenarios.</p>
+Computer Science graduate passionate about DevOps, cloud infrastructure, automation, and container orchestration. I enjoy building hands-on projects and applying my knowledge to real-world scenarios.
 
-###
+## 💫 About Me
 
-# 💫 About Me:
-🔭 I’m currently working on **hands-on DevOps projects using Docker, Kubernetes, and AWS.**<br><br>👯 I’m looking to collaborate on **DevOps, Cloud Computing, and open-source projects.**<br><br>🤝 I’m looking for help with **improving my DevOps skills and building real-world cloud infrastructure projects.**<br><br>🌱 I’m currently learning **Terraform, CI/CD, and advanced Kubernetes concepts.**<br><br>💬 Ask me about **Linux, Bash, Docker, Kubernetes, and AWS fundamentals.**<br><br>⚡ Fun fact: **I’m a Computer Science graduate with a background in AI and a passion for automating infrastructure and building reliable systems.**
+- 🔭 Working on hands-on projects using **Docker, Kubernetes, and AWS**
+- 🌱 Continuously learning **CI/CD, Infrastructure as Code, and advanced Kubernetes concepts**
+- ⚙️ Practicing Kubernetes networking, storage, RBAC, security, and workload management
+- 👯 Open to collaborating on **DevOps, Cloud Computing, and open-source projects**
+- 💬 Ask me about **Linux, Bash, Docker, Kubernetes, and cloud fundamentals**
+- 🎓 Computer Science graduate with a background in **AI and Machine Learning**
 
+## 🌐 Connect With Me
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adham.husseinmansour) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adhamhusseinx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adham-hussein-8264392ba/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adham.hussein.mansour@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adham-hussein-8264392ba/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdhamHussein1)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adham.hussein.mansour@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/adham.husseinmansour)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adhamhusseinx)
 
-# 💻 Tech Stack:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AdhamHussein1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AdhamHussein1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AdhamHussein1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Tech Stack
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdhamHussein1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### DevOps & Containerization
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdhamHussein1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Operating Systems & Version Control
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Programming & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black)
+
+## 🚀 Featured Projects
+
+Here are some of the areas I work on through hands-on projects:
+
+- **Docker:** Containerizing applications and managing multi-container environments.
+- **Kubernetes:** Deployments, Services, Ingress, RBAC, storage, networking, and workload management.
+- **AWS:** Hands-on practice with cloud services and infrastructure.
+
+*Explore my [GitHub repositories](https://github.com/AdhamHussein1?tab=repositories) to see my work.*
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdhamHussein1&show_icons=true&theme=github_dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AdhamHussein1&theme=github-dark-blue&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamHussein1&layout=compact&theme=github_dark&hide_border=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AdhamHussein1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile Views](https://komarev.com/ghpvc/?username=AdhamHussein1&color=blue&style=flat-square&label=Profile+Views)
